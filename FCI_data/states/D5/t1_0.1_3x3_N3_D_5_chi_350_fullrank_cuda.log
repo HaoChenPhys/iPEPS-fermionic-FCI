@@ -1,0 +1,1492 @@
+INFO:__main__:loaded /capstor/scratch/cscs/hchen/tutorial/tn-torch_dev/examples/honeycomb/paper_states/D5/t1_0.1_3x3_N3_D_5_chi_75_fullrank_cuda_state.json
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:ctmrg_T main loop max_workers=4 on devices=['cuda:0', 'cuda:1', 'cuda:2', 'cuda:3']
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 001; max_diff_corner_singular_values = nan
+INFO:FixedPoint:CTM iter 1 |delta_C| nan t 20.121539290994406 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 002; max_diff_corner_singular_values = 2.68e-02
+INFO:FixedPoint:CTM iter 2 |delta_C| 0.026832866857632694 t 11.878819200966973 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 003; max_diff_corner_singular_values = 2.63e-02
+INFO:FixedPoint:CTM iter 3 |delta_C| 0.02634134276733025 t 8.673851305036806 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 004; max_diff_corner_singular_values = 2.68e-02
+INFO:FixedPoint:CTM iter 4 |delta_C| 0.02679405992475445 t 6.966500264010392 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 005; max_diff_corner_singular_values = 2.23e-02
+INFO:FixedPoint:CTM iter 5 |delta_C| 0.022347971278723105 t 6.972852313017938 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 006; max_diff_corner_singular_values = 2.01e-02
+INFO:FixedPoint:CTM iter 6 |delta_C| 0.020123927420147344 t 7.207374688994605 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 007; max_diff_corner_singular_values = 1.49e-02
+INFO:FixedPoint:CTM iter 7 |delta_C| 0.014867678222055558 t 7.029012444021646 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 008; max_diff_corner_singular_values = 7.61e-03
+INFO:FixedPoint:CTM iter 8 |delta_C| 0.007613442483979608 t 6.8196480050100945 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 009; max_diff_corner_singular_values = 1.56e-02
+INFO:FixedPoint:CTM iter 9 |delta_C| 0.01564407742717235 t 7.027002781047486 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 010; max_diff_corner_singular_values = 1.72e-02
+INFO:FixedPoint:CTM iter 10 |delta_C| 0.01722397972503369 t 6.99037513701478 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 011; max_diff_corner_singular_values = 9.67e-03
+INFO:FixedPoint:CTM iter 11 |delta_C| 0.009674268995118824 t 6.900070540024899 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 012; max_diff_corner_singular_values = 1.98e-02
+INFO:FixedPoint:CTM iter 12 |delta_C| 0.019822938501922713 t 7.027642378991004 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 013; max_diff_corner_singular_values = 1.24e-02
+INFO:FixedPoint:CTM iter 13 |delta_C| 0.012427408559541614 t 7.055272525001783 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 014; max_diff_corner_singular_values = 5.88e-03
+INFO:FixedPoint:CTM iter 14 |delta_C| 0.0058762756680554576 t 6.813365730980877 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 015; max_diff_corner_singular_values = 1.93e-02
+INFO:FixedPoint:CTM iter 15 |delta_C| 0.019337631284529734 t 6.869978938018903 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 016; max_diff_corner_singular_values = 1.66e-02
+INFO:FixedPoint:CTM iter 16 |delta_C| 0.016640023746090353 t 6.928509810997639 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 017; max_diff_corner_singular_values = 1.06e-02
+INFO:FixedPoint:CTM iter 17 |delta_C| 0.010560219076919222 t 6.948911007028073 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 018; max_diff_corner_singular_values = 1.35e-02
+INFO:FixedPoint:CTM iter 18 |delta_C| 0.013454385870139356 t 7.045606359024532 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 019; max_diff_corner_singular_values = 7.64e-03
+INFO:FixedPoint:CTM iter 19 |delta_C| 0.0076426658709717364 t 6.932589777978137 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 020; max_diff_corner_singular_values = 8.54e-03
+INFO:FixedPoint:CTM iter 20 |delta_C| 0.00853775863893149 t 6.91459932300495 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 021; max_diff_corner_singular_values = 5.21e-03
+INFO:FixedPoint:CTM iter 21 |delta_C| 0.00521220147300387 t 7.042385981010739 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 022; max_diff_corner_singular_values = 1.17e-02
+INFO:FixedPoint:CTM iter 22 |delta_C| 0.011690929348383587 t 6.893231571011711 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 023; max_diff_corner_singular_values = 1.38e-02
+INFO:FixedPoint:CTM iter 23 |delta_C| 0.013824446910652533 t 6.954309710999951 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 024; max_diff_corner_singular_values = 1.19e-02
+INFO:FixedPoint:CTM iter 24 |delta_C| 0.011866136321476947 t 6.9822027570335194 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 025; max_diff_corner_singular_values = 2.61e-02
+INFO:FixedPoint:CTM iter 25 |delta_C| 0.026123247374325323 t 6.861114183964673 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 026; max_diff_corner_singular_values = 1.48e-02
+INFO:FixedPoint:CTM iter 26 |delta_C| 0.014817573693262753 t 6.957708351954352 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 027; max_diff_corner_singular_values = 1.51e-02
+INFO:FixedPoint:CTM iter 27 |delta_C| 0.015054465756100375 t 6.854191667982377 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 028; max_diff_corner_singular_values = 1.15e-02
+INFO:FixedPoint:CTM iter 28 |delta_C| 0.011490880803897497 t 6.924813185993116 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 029; max_diff_corner_singular_values = 7.29e-03
+INFO:FixedPoint:CTM iter 29 |delta_C| 0.007290118513862137 t 7.044865214964375 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 030; max_diff_corner_singular_values = 3.25e-02
+INFO:FixedPoint:CTM iter 30 |delta_C| 0.032533426008178726 t 7.017650677997153 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 031; max_diff_corner_singular_values = 6.18e-04
+INFO:FixedPoint:CTM iter 31 |delta_C| 0.0006176531061615516 t 6.892364609986544 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 032; max_diff_corner_singular_values = 5.81e-04
+INFO:FixedPoint:CTM iter 32 |delta_C| 0.0005806746720169784 t 6.827967953984626 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 033; max_diff_corner_singular_values = 5.44e-04
+INFO:FixedPoint:CTM iter 33 |delta_C| 0.0005436084235800396 t 6.872191603993997 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 034; max_diff_corner_singular_values = 7.54e-03
+INFO:FixedPoint:CTM iter 34 |delta_C| 0.007543952429569524 t 6.892217735992745 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 035; max_diff_corner_singular_values = 4.73e-04
+INFO:FixedPoint:CTM iter 35 |delta_C| 0.00047345795287355094 t 6.94310171197867 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 036; max_diff_corner_singular_values = 4.39e-04
+INFO:FixedPoint:CTM iter 36 |delta_C| 0.0004392883823125584 t 6.723586074018385 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 037; max_diff_corner_singular_values = 1.26e-02
+INFO:FixedPoint:CTM iter 37 |delta_C| 0.01259251475309486 t 7.046069854986854 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 038; max_diff_corner_singular_values = 1.52e-02
+INFO:FixedPoint:CTM iter 38 |delta_C| 0.015173879629740579 t 6.868273273983505 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 039; max_diff_corner_singular_values = 3.77e-04
+INFO:FixedPoint:CTM iter 39 |delta_C| 0.0003771590090162768 t 6.831937815004494 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 040; max_diff_corner_singular_values = 1.52e-02
+INFO:FixedPoint:CTM iter 40 |delta_C| 0.015170916278741611 t 6.997257235983852 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 041; max_diff_corner_singular_values = 3.12e-04
+INFO:FixedPoint:CTM iter 41 |delta_C| 0.00031238202629481056 t 6.85875524696894 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 042; max_diff_corner_singular_values = 2.83e-04
+INFO:FixedPoint:CTM iter 42 |delta_C| 0.00028258028549563976 t 6.819862592034042 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 043; max_diff_corner_singular_values = 1.61e-02
+INFO:FixedPoint:CTM iter 43 |delta_C| 0.016077156288667096 t 6.948221358994488 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 044; max_diff_corner_singular_values = 1.54e-02
+INFO:FixedPoint:CTM iter 44 |delta_C| 0.015422449274144018 t 7.0197213040082715 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 045; max_diff_corner_singular_values = 2.41e-04
+INFO:FixedPoint:CTM iter 45 |delta_C| 0.00024099478918549646 t 7.037335317989346 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 046; max_diff_corner_singular_values = 2.22e-04
+INFO:FixedPoint:CTM iter 46 |delta_C| 0.0002217142370574212 t 7.020421779947355 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 047; max_diff_corner_singular_values = 2.04e-04
+INFO:FixedPoint:CTM iter 47 |delta_C| 0.00020444422274466532 t 6.734464645967819 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 048; max_diff_corner_singular_values = 1.93e-04
+INFO:FixedPoint:CTM iter 48 |delta_C| 0.0001932866852769587 t 6.959323471994139 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 049; max_diff_corner_singular_values = 1.81e-04
+INFO:FixedPoint:CTM iter 49 |delta_C| 0.00018051290168251744 t 6.83388232102152 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 050; max_diff_corner_singular_values = 1.69e-04
+INFO:FixedPoint:CTM iter 50 |delta_C| 0.0001689691241190588 t 6.815081393986475 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 051; max_diff_corner_singular_values = 1.58e-04
+INFO:FixedPoint:CTM iter 51 |delta_C| 0.00015838243212644041 t 6.769453913962934 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 052; max_diff_corner_singular_values = 1.48e-04
+INFO:FixedPoint:CTM iter 52 |delta_C| 0.00014817185462264544 t 6.917617751983926 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 053; max_diff_corner_singular_values = 2.87e-02
+INFO:FixedPoint:CTM iter 53 |delta_C| 0.028660606284593815 t 6.77284490596503 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 054; max_diff_corner_singular_values = 1.52e-04
+INFO:FixedPoint:CTM iter 54 |delta_C| 0.00015240310412047817 t 6.973160955996718 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 055; max_diff_corner_singular_values = 1.31e-04
+INFO:FixedPoint:CTM iter 55 |delta_C| 0.0001312593861631291 t 6.970908025978133 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 056; max_diff_corner_singular_values = 1.22e-04
+INFO:FixedPoint:CTM iter 56 |delta_C| 0.00012211288857406186 t 6.858795244013891 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 057; max_diff_corner_singular_values = 1.13e-04
+INFO:FixedPoint:CTM iter 57 |delta_C| 0.00011280321831755712 t 6.821601304982323 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 058; max_diff_corner_singular_values = 1.24e-02
+INFO:FixedPoint:CTM iter 58 |delta_C| 0.01241411172016446 t 6.903764104004949 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 059; max_diff_corner_singular_values = 1.07e-04
+INFO:FixedPoint:CTM iter 59 |delta_C| 0.00010660182403480706 t 6.780929812986869 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 060; max_diff_corner_singular_values = 9.23e-05
+INFO:FixedPoint:CTM iter 60 |delta_C| 9.232769273040286e-05 t 6.8258102890104055 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 061; max_diff_corner_singular_values = 8.66e-05
+INFO:FixedPoint:CTM iter 61 |delta_C| 8.664287979779832e-05 t 6.856193727988284 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 062; max_diff_corner_singular_values = 8.05e-05
+INFO:FixedPoint:CTM iter 62 |delta_C| 8.045957813326566e-05 t 6.874442454020027 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 063; max_diff_corner_singular_values = 1.24e-02
+INFO:FixedPoint:CTM iter 63 |delta_C| 0.012419593916800836 t 6.772231962007936 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 064; max_diff_corner_singular_values = 7.43e-05
+INFO:FixedPoint:CTM iter 64 |delta_C| 7.431250882586719e-05 t 6.80206704500597 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 065; max_diff_corner_singular_values = 6.47e-05
+INFO:FixedPoint:CTM iter 65 |delta_C| 6.468147071405705e-05 t 6.975125046039466 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 066; max_diff_corner_singular_values = 6.00e-05
+INFO:FixedPoint:CTM iter 66 |delta_C| 5.999504186971632e-05 t 6.828730167995673 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 067; max_diff_corner_singular_values = 5.67e-05
+INFO:FixedPoint:CTM iter 67 |delta_C| 5.668002269503818e-05 t 6.854752894025296 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 068; max_diff_corner_singular_values = 5.30e-05
+INFO:FixedPoint:CTM iter 68 |delta_C| 5.3045490093311086e-05 t 6.759936509013642 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 069; max_diff_corner_singular_values = 4.98e-05
+INFO:FixedPoint:CTM iter 69 |delta_C| 4.9816076924458637e-05 t 7.017779693007469 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 070; max_diff_corner_singular_values = 4.68e-05
+INFO:FixedPoint:CTM iter 70 |delta_C| 4.676644230358426e-05 t 6.8678431659936905 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 071; max_diff_corner_singular_values = 2.29e-02
+INFO:FixedPoint:CTM iter 71 |delta_C| 0.022926592173327435 t 6.892678796022665 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 072; max_diff_corner_singular_values = 2.29e-02
+INFO:FixedPoint:CTM iter 72 |delta_C| 0.022931182480332806 t 6.924861959996633 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 073; max_diff_corner_singular_values = 2.29e-02
+INFO:FixedPoint:CTM iter 73 |delta_C| 0.02293313621738008 t 7.007594060967676 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 074; max_diff_corner_singular_values = 1.24e-02
+INFO:FixedPoint:CTM iter 74 |delta_C| 0.012424911899121283 t 6.882103949028533 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 075; max_diff_corner_singular_values = 4.86e-05
+INFO:FixedPoint:CTM iter 75 |delta_C| 4.857302117182814e-05 t 6.811795339977834 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 076; max_diff_corner_singular_values = 2.65e-05
+INFO:FixedPoint:CTM iter 76 |delta_C| 2.6486256558969656e-05 t 6.8402361429762095 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 077; max_diff_corner_singular_values = 2.73e-05
+INFO:FixedPoint:CTM iter 77 |delta_C| 2.7295832017612158e-05 t 6.863049765990581 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 078; max_diff_corner_singular_values = 2.49e-05
+INFO:FixedPoint:CTM iter 78 |delta_C| 2.487000184021341e-05 t 6.804374388011638 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 079; max_diff_corner_singular_values = 2.32e-05
+INFO:FixedPoint:CTM iter 79 |delta_C| 2.3194765704795866e-05 t 6.892112787987571 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 080; max_diff_corner_singular_values = 2.23e-05
+INFO:FixedPoint:CTM iter 80 |delta_C| 2.233923492512735e-05 t 6.82752814196283 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 081; max_diff_corner_singular_values = 2.10e-05
+INFO:FixedPoint:CTM iter 81 |delta_C| 2.0964795470615875e-05 t 6.8634837020072155 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 082; max_diff_corner_singular_values = 1.97e-05
+INFO:FixedPoint:CTM iter 82 |delta_C| 1.969454524432004e-05 t 6.817286456993315 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 083; max_diff_corner_singular_values = 1.88e-05
+INFO:FixedPoint:CTM iter 83 |delta_C| 1.8788196333292587e-05 t 6.800588829035405 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 084; max_diff_corner_singular_values = 1.77e-05
+INFO:FixedPoint:CTM iter 84 |delta_C| 1.770144471106591e-05 t 6.822527710988652 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 085; max_diff_corner_singular_values = 1.67e-05
+INFO:FixedPoint:CTM iter 85 |delta_C| 1.6681220080040107e-05 t 6.788796567008831 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 086; max_diff_corner_singular_values = 1.58e-05
+INFO:FixedPoint:CTM iter 86 |delta_C| 1.5848773454661563e-05 t 6.734949618985411 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 087; max_diff_corner_singular_values = 1.50e-05
+INFO:FixedPoint:CTM iter 87 |delta_C| 1.4953293558496324e-05 t 6.867096395988483 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 088; max_diff_corner_singular_values = 1.41e-05
+INFO:FixedPoint:CTM iter 88 |delta_C| 1.4112964215177174e-05 t 6.799615771975368 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 089; max_diff_corner_singular_values = 1.34e-05
+INFO:FixedPoint:CTM iter 89 |delta_C| 1.3384893010171446e-05 t 6.824057070014533 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 090; max_diff_corner_singular_values = 1.26e-05
+INFO:FixedPoint:CTM iter 90 |delta_C| 1.2640823021321304e-05 t 6.835142123978585 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 091; max_diff_corner_singular_values = 1.19e-05
+INFO:FixedPoint:CTM iter 91 |delta_C| 1.194235611429575e-05 t 6.8402074839686975 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 092; max_diff_corner_singular_values = 1.13e-05
+INFO:FixedPoint:CTM iter 92 |delta_C| 1.1319134290773562e-05 t 6.873083457001485 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 093; max_diff_corner_singular_values = 1.07e-05
+INFO:FixedPoint:CTM iter 93 |delta_C| 1.0698553616763943e-05 t 6.818102463032119 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 094; max_diff_corner_singular_values = 1.01e-05
+INFO:FixedPoint:CTM iter 94 |delta_C| 1.0116321164643426e-05 t 6.907391223008744 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 095; max_diff_corner_singular_values = 9.59e-06
+INFO:FixedPoint:CTM iter 95 |delta_C| 9.587601647283116e-06 t 6.785856230999343 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 096; max_diff_corner_singular_values = 9.07e-06
+INFO:FixedPoint:CTM iter 96 |delta_C| 9.069179229304997e-06 t 6.848528211005032 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 097; max_diff_corner_singular_values = 8.58e-06
+INFO:FixedPoint:CTM iter 97 |delta_C| 8.582786208538013e-06 t 6.793056352995336 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 098; max_diff_corner_singular_values = 8.14e-06
+INFO:FixedPoint:CTM iter 98 |delta_C| 8.136098332095438e-06 t 6.888942309014965 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 099; max_diff_corner_singular_values = 7.70e-06
+INFO:FixedPoint:CTM iter 99 |delta_C| 7.702324682036384e-06 t 6.800100446969736 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 100; max_diff_corner_singular_values = 7.30e-06
+INFO:FixedPoint:CTM iter 100 |delta_C| 7.295252798578824e-06 t 6.7923866889905185 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 101; max_diff_corner_singular_values = 6.92e-06
+INFO:FixedPoint:CTM iter 101 |delta_C| 6.9184473050084175e-06 t 6.855280523013789 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 102; max_diff_corner_singular_values = 6.55e-06
+INFO:FixedPoint:CTM iter 102 |delta_C| 6.554893999368918e-06 t 6.738633684988599 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 103; max_diff_corner_singular_values = 6.21e-06
+INFO:FixedPoint:CTM iter 103 |delta_C| 6.2135584211538355e-06 t 6.7401234619901516 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 104; max_diff_corner_singular_values = 5.90e-06
+INFO:FixedPoint:CTM iter 104 |delta_C| 5.895750796902346e-06 t 6.829375748988241 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 105; max_diff_corner_singular_values = 5.59e-06
+INFO:FixedPoint:CTM iter 105 |delta_C| 5.590469480126648e-06 t 6.900244976975955 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 106; max_diff_corner_singular_values = 5.30e-06
+INFO:FixedPoint:CTM iter 106 |delta_C| 5.303673056707495e-06 t 6.801839444029611 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 107; max_diff_corner_singular_values = 5.04e-06
+INFO:FixedPoint:CTM iter 107 |delta_C| 5.035426571017561e-06 t 6.805129580956418 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 108; max_diff_corner_singular_values = 4.78e-06
+INFO:FixedPoint:CTM iter 108 |delta_C| 4.77855168653719e-06 t 6.761650295055006 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 109; max_diff_corner_singular_values = 4.54e-06
+INFO:FixedPoint:CTM iter 109 |delta_C| 4.5370667602456834e-06 t 6.879872492980212 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 110; max_diff_corner_singular_values = 4.31e-06
+INFO:FixedPoint:CTM iter 110 |delta_C| 4.310355216867299e-06 t 6.771414035989437 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 111; max_diff_corner_singular_values = 4.09e-06
+INFO:FixedPoint:CTM iter 111 |delta_C| 4.093730182526375e-06 t 6.82879384001717 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 112; max_diff_corner_singular_values = 3.89e-06
+INFO:FixedPoint:CTM iter 112 |delta_C| 3.889922864474667e-06 t 6.861066956014838 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 113; max_diff_corner_singular_values = 3.70e-06
+INFO:FixedPoint:CTM iter 113 |delta_C| 3.6980015074056835e-06 t 6.957025049021468 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 114; max_diff_corner_singular_values = 3.51e-06
+INFO:FixedPoint:CTM iter 114 |delta_C| 3.5148994346090797e-06 t 6.873117259994615 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 115; max_diff_corner_singular_values = 3.34e-06
+INFO:FixedPoint:CTM iter 115 |delta_C| 3.342471654466102e-06 t 6.910119473992381 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 116; max_diff_corner_singular_values = 3.18e-06
+INFO:FixedPoint:CTM iter 116 |delta_C| 3.1796850564493665e-06 t 6.7922176939900964 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 117; max_diff_corner_singular_values = 3.02e-06
+INFO:FixedPoint:CTM iter 117 |delta_C| 3.0245402897627675e-06 t 6.814072006032802 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 118; max_diff_corner_singular_values = 2.88e-06
+INFO:FixedPoint:CTM iter 118 |delta_C| 2.8783055762302332e-06 t 6.9215075459796935 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 119; max_diff_corner_singular_values = 2.74e-06
+INFO:FixedPoint:CTM iter 119 |delta_C| 2.7399491818425257e-06 t 6.89063320599962 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 120; max_diff_corner_singular_values = 2.61e-06
+INFO:FixedPoint:CTM iter 120 |delta_C| 2.6081523357213712e-06 t 6.867540406004991 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 121; max_diff_corner_singular_values = 2.48e-06
+INFO:FixedPoint:CTM iter 121 |delta_C| 2.4838242392119422e-06 t 6.860881867003627 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 122; max_diff_corner_singular_values = 2.37e-06
+INFO:FixedPoint:CTM iter 122 |delta_C| 2.3659658760730208e-06 t 6.828845066018403 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 123; max_diff_corner_singular_values = 2.25e-06
+INFO:FixedPoint:CTM iter 123 |delta_C| 2.2537360854086384e-06 t 6.77308022294892 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 124; max_diff_corner_singular_values = 2.15e-06
+INFO:FixedPoint:CTM iter 124 |delta_C| 2.1477556364220045e-06 t 6.738583116035443 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 125; max_diff_corner_singular_values = 2.05e-06
+INFO:FixedPoint:CTM iter 125 |delta_C| 2.0471303039834804e-06 t 6.884976489003748 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 126; max_diff_corner_singular_values = 1.95e-06
+INFO:FixedPoint:CTM iter 126 |delta_C| 1.9513186971474085e-06 t 6.905211140052415 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 127; max_diff_corner_singular_values = 1.86e-06
+INFO:FixedPoint:CTM iter 127 |delta_C| 1.8607593487144026e-06 t 6.756982976978179 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 128; max_diff_corner_singular_values = 1.77e-06
+INFO:FixedPoint:CTM iter 128 |delta_C| 1.7746489469059445e-06 t 6.842374527011998 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 129; max_diff_corner_singular_values = 1.69e-06
+INFO:FixedPoint:CTM iter 129 |delta_C| 1.6926481501359476e-06 t 6.786027717986144 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 130; max_diff_corner_singular_values = 1.62e-06
+INFO:FixedPoint:CTM iter 130 |delta_C| 1.6150742767846457e-06 t 6.740552752977237 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 131; max_diff_corner_singular_values = 1.54e-06
+INFO:FixedPoint:CTM iter 131 |delta_C| 1.5412146169659227e-06 t 6.867948811966926 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 132; max_diff_corner_singular_values = 1.47e-06
+INFO:FixedPoint:CTM iter 132 |delta_C| 1.4708689994554944e-06 t 6.847733555012383 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 133; max_diff_corner_singular_values = 1.40e-06
+INFO:FixedPoint:CTM iter 133 |delta_C| 1.404252181887485e-06 t 6.77361342596123 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 134; max_diff_corner_singular_values = 1.34e-06
+INFO:FixedPoint:CTM iter 134 |delta_C| 1.3407619741108462e-06 t 6.916497695026919 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 135; max_diff_corner_singular_values = 1.28e-06
+INFO:FixedPoint:CTM iter 135 |delta_C| 1.2802742645677993e-06 t 7.012227213999722 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 136; max_diff_corner_singular_values = 1.22e-06
+INFO:FixedPoint:CTM iter 136 |delta_C| 1.2229311496459795e-06 t 6.901637073024176 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 137; max_diff_corner_singular_values = 1.17e-06
+INFO:FixedPoint:CTM iter 137 |delta_C| 1.1682338343160011e-06 t 6.784368816995993 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 138; max_diff_corner_singular_values = 1.12e-06
+INFO:FixedPoint:CTM iter 138 |delta_C| 1.1161026079013327e-06 t 6.778152664017398 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 139; max_diff_corner_singular_values = 1.07e-06
+INFO:FixedPoint:CTM iter 139 |delta_C| 1.06663773175724e-06 t 6.823071421997156 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 140; max_diff_corner_singular_values = 1.02e-06
+INFO:FixedPoint:CTM iter 140 |delta_C| 1.0194169492471154e-06 t 6.837110109976493 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 141; max_diff_corner_singular_values = 9.74e-07
+INFO:FixedPoint:CTM iter 141 |delta_C| 9.743884747290724e-07 t 6.838517903001048 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 142; max_diff_corner_singular_values = 9.32e-07
+INFO:FixedPoint:CTM iter 142 |delta_C| 9.316268384065299e-07 t 6.764522922981996 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 143; max_diff_corner_singular_values = 8.91e-07
+INFO:FixedPoint:CTM iter 143 |delta_C| 8.907731896122414e-07 t 6.814897379023023 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 144; max_diff_corner_singular_values = 8.52e-07
+INFO:FixedPoint:CTM iter 144 |delta_C| 8.518087877541311e-07 t 7.070245093025733 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 145; max_diff_corner_singular_values = 8.15e-07
+INFO:FixedPoint:CTM iter 145 |delta_C| 8.147650966064479e-07 t 6.810164348979015 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 146; max_diff_corner_singular_values = 7.79e-07
+INFO:FixedPoint:CTM iter 146 |delta_C| 7.793586244859625e-07 t 6.79344217403559 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 147; max_diff_corner_singular_values = 7.46e-07
+INFO:FixedPoint:CTM iter 147 |delta_C| 7.455642147212469e-07 t 6.791207397996914 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 148; max_diff_corner_singular_values = 7.13e-07
+INFO:FixedPoint:CTM iter 148 |delta_C| 7.134201933235188e-07 t 6.859180076979101 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 149; max_diff_corner_singular_values = 6.83e-07
+INFO:FixedPoint:CTM iter 149 |delta_C| 6.82673853315431e-07 t 6.828035470971372 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 150; max_diff_corner_singular_values = 6.53e-07
+INFO:FixedPoint:CTM iter 150 |delta_C| 6.533177127286565e-07 t 6.792371168965474 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 151; max_diff_corner_singular_values = 6.25e-07
+INFO:FixedPoint:CTM iter 151 |delta_C| 6.253741356572509e-07 t 6.806725205969997 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 152; max_diff_corner_singular_values = 5.99e-07
+INFO:FixedPoint:CTM iter 152 |delta_C| 5.986286781245118e-07 t 6.915576132014394 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 153; max_diff_corner_singular_values = 5.73e-07
+INFO:FixedPoint:CTM iter 153 |delta_C| 5.730814453306139e-07 t 6.838019312010147 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 154; max_diff_corner_singular_values = 5.49e-07
+INFO:FixedPoint:CTM iter 154 |delta_C| 5.487470104314189e-07 t 6.879459999036044 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 155; max_diff_corner_singular_values = 5.25e-07
+INFO:FixedPoint:CTM iter 155 |delta_C| 5.254495360035659e-07 t 6.932760755997151 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 156; max_diff_corner_singular_values = 5.03e-07
+INFO:FixedPoint:CTM iter 156 |delta_C| 5.031862984927277e-07 t 6.803836574021261 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 157; max_diff_corner_singular_values = 4.82e-07
+INFO:FixedPoint:CTM iter 157 |delta_C| 4.81958358177309e-07 t 6.831326291023288 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 158; max_diff_corner_singular_values = 4.62e-07
+INFO:FixedPoint:CTM iter 158 |delta_C| 4.6163232345508496e-07 t 6.819169974012766 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 159; max_diff_corner_singular_values = 4.42e-07
+INFO:FixedPoint:CTM iter 159 |delta_C| 4.4219702715954214e-07 t 6.923962795990519 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 160; max_diff_corner_singular_values = 4.24e-07
+INFO:FixedPoint:CTM iter 160 |delta_C| 4.2366297414808853e-07 t 6.932752340042498 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 161; max_diff_corner_singular_values = 4.06e-07
+INFO:FixedPoint:CTM iter 161 |delta_C| 4.059017416191011e-07 t 6.846673546009697 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 162; max_diff_corner_singular_values = 3.89e-07
+INFO:FixedPoint:CTM iter 162 |delta_C| 3.8891525897384815e-07 t 6.837045436957851 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 163; max_diff_corner_singular_values = 3.73e-07
+INFO:FixedPoint:CTM iter 163 |delta_C| 3.727094074825824e-07 t 6.920529613969848 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 164; max_diff_corner_singular_values = 3.57e-07
+INFO:FixedPoint:CTM iter 164 |delta_C| 3.5716963447682434e-07 t 6.768789270019624 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 165; max_diff_corner_singular_values = 3.42e-07
+INFO:FixedPoint:CTM iter 165 |delta_C| 3.4230406245105585e-07 t 6.774412196013145 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 166; max_diff_corner_singular_values = 3.28e-07
+INFO:FixedPoint:CTM iter 166 |delta_C| 3.2811253823694565e-07 t 6.861634664004669 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 167; max_diff_corner_singular_values = 3.15e-07
+INFO:FixedPoint:CTM iter 167 |delta_C| 3.1450748597427144e-07 t 6.908645132964011 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 168; max_diff_corner_singular_values = 3.01e-07
+INFO:FixedPoint:CTM iter 168 |delta_C| 3.014816824186013e-07 t 6.90606323099928 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 169; max_diff_corner_singular_values = 2.89e-07
+INFO:FixedPoint:CTM iter 169 |delta_C| 2.8904539925012756e-07 t 6.838325357995927 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 170; max_diff_corner_singular_values = 2.77e-07
+INFO:FixedPoint:CTM iter 170 |delta_C| 2.7711061382030734e-07 t 6.849847646954004 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 171; max_diff_corner_singular_values = 2.66e-07
+INFO:FixedPoint:CTM iter 171 |delta_C| 2.656901396956873e-07 t 6.776346630009357 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 172; max_diff_corner_singular_values = 2.55e-07
+INFO:FixedPoint:CTM iter 172 |delta_C| 2.547739580934401e-07 t 6.79305838001892 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 173; max_diff_corner_singular_values = 2.44e-07
+INFO:FixedPoint:CTM iter 173 |delta_C| 2.443076077543497e-07 t 6.884999847970903 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 174; max_diff_corner_singular_values = 2.34e-07
+INFO:FixedPoint:CTM iter 174 |delta_C| 2.3427775283286384e-07 t 6.842552232032176 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 175; max_diff_corner_singular_values = 2.25e-07
+INFO:FixedPoint:CTM iter 175 |delta_C| 2.2469403315576616e-07 t 6.813881718029734 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 176; max_diff_corner_singular_values = 2.15e-07
+INFO:FixedPoint:CTM iter 176 |delta_C| 2.154969096233335e-07 t 6.823986709001474 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 177; max_diff_corner_singular_values = 2.07e-07
+INFO:FixedPoint:CTM iter 177 |delta_C| 2.066850337925337e-07 t 6.903706677025184 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 178; max_diff_corner_singular_values = 1.98e-07
+INFO:FixedPoint:CTM iter 178 |delta_C| 1.982612048877686e-07 t 6.817683487024624 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 179; max_diff_corner_singular_values = 1.90e-07
+INFO:FixedPoint:CTM iter 179 |delta_C| 1.9016959273058012e-07 t 6.796155721007381 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 180; max_diff_corner_singular_values = 1.82e-07
+INFO:FixedPoint:CTM iter 180 |delta_C| 1.8242845578651647e-07 t 6.7891180560109206 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 181; max_diff_corner_singular_values = 1.75e-07
+INFO:FixedPoint:CTM iter 181 |delta_C| 1.7501358688016352e-07 t 6.847879456006922 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 182; max_diff_corner_singular_values = 1.68e-07
+INFO:FixedPoint:CTM iter 182 |delta_C| 1.6790227678281103e-07 t 6.876526871987153 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 183; max_diff_corner_singular_values = 1.61e-07
+INFO:FixedPoint:CTM iter 183 |delta_C| 1.61083569877168e-07 t 6.822268038988113 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 184; max_diff_corner_singular_values = 1.55e-07
+INFO:FixedPoint:CTM iter 184 |delta_C| 1.5455757020524048e-07 t 6.805433821049519 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 185; max_diff_corner_singular_values = 1.48e-07
+INFO:FixedPoint:CTM iter 185 |delta_C| 1.482965419903695e-07 t 6.860838719003368 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 186; max_diff_corner_singular_values = 1.42e-07
+INFO:FixedPoint:CTM iter 186 |delta_C| 1.422928880116233e-07 t 6.7743276409455575 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 187; max_diff_corner_singular_values = 1.37e-07
+INFO:FixedPoint:CTM iter 187 |delta_C| 1.3654092929144875e-07 t 6.894314136006869 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 188; max_diff_corner_singular_values = 1.31e-07
+INFO:FixedPoint:CTM iter 188 |delta_C| 1.3103122951830495e-07 t 6.771931877010502 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 189; max_diff_corner_singular_values = 1.26e-07
+INFO:FixedPoint:CTM iter 189 |delta_C| 1.257350831231975e-07 t 6.778710957034491 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 190; max_diff_corner_singular_values = 1.21e-07
+INFO:FixedPoint:CTM iter 190 |delta_C| 1.2067295848768683e-07 t 6.747658598003909 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 191; max_diff_corner_singular_values = 1.16e-07
+INFO:FixedPoint:CTM iter 191 |delta_C| 1.158059147582867e-07 t 6.795595308009069 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 192; max_diff_corner_singular_values = 1.11e-07
+INFO:FixedPoint:CTM iter 192 |delta_C| 1.111454002460624e-07 t 6.818158017995302 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 193; max_diff_corner_singular_values = 1.07e-07
+INFO:FixedPoint:CTM iter 193 |delta_C| 1.0667513530570484e-07 t 6.733325025998056 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 194; max_diff_corner_singular_values = 1.02e-07
+INFO:FixedPoint:CTM iter 194 |delta_C| 1.0239013015160152e-07 t 6.787735078949481 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 195; max_diff_corner_singular_values = 9.83e-08
+INFO:FixedPoint:CTM iter 195 |delta_C| 9.82713602158492e-08 t 6.7723871159832925 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 196; max_diff_corner_singular_values = 9.43e-08
+INFO:FixedPoint:CTM iter 196 |delta_C| 9.433458950899002e-08 t 6.792905314010568 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 197; max_diff_corner_singular_values = 9.05e-08
+INFO:FixedPoint:CTM iter 197 |delta_C| 9.054548315244515e-08 t 6.861000404984225 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 198; max_diff_corner_singular_values = 8.69e-08
+INFO:FixedPoint:CTM iter 198 |delta_C| 8.691583843550051e-08 t 6.785637544002384 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 199; max_diff_corner_singular_values = 8.34e-08
+INFO:FixedPoint:CTM iter 199 |delta_C| 8.343733065435977e-08 t 6.780004283995368 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 200; max_diff_corner_singular_values = 8.01e-08
+INFO:FixedPoint:CTM iter 200 |delta_C| 8.00945670855162e-08 t 6.791941245959606 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 201; max_diff_corner_singular_values = 7.69e-08
+INFO:FixedPoint:CTM iter 201 |delta_C| 7.689257674548508e-08 t 6.829910784959793 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 202; max_diff_corner_singular_values = 7.38e-08
+INFO:FixedPoint:CTM iter 202 |delta_C| 7.381654447894334e-08 t 6.934189547027927 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 203; max_diff_corner_singular_values = 7.09e-08
+INFO:FixedPoint:CTM iter 203 |delta_C| 7.086718015286569e-08 t 6.821054138999898 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 204; max_diff_corner_singular_values = 6.80e-08
+INFO:FixedPoint:CTM iter 204 |delta_C| 6.803907230515572e-08 t 6.748895507946145 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 205; max_diff_corner_singular_values = 6.53e-08
+INFO:FixedPoint:CTM iter 205 |delta_C| 6.532135962658283e-08 t 6.7355801240191795 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 206; max_diff_corner_singular_values = 6.27e-08
+INFO:FixedPoint:CTM iter 206 |delta_C| 6.27196327262048e-08 t 6.777333386999089 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 207; max_diff_corner_singular_values = 6.02e-08
+INFO:FixedPoint:CTM iter 207 |delta_C| 6.021056323002825e-08 t 6.849419732985552 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 208; max_diff_corner_singular_values = 5.78e-08
+INFO:FixedPoint:CTM iter 208 |delta_C| 5.7817300815598976e-08 t 6.7499992799712345 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 209; max_diff_corner_singular_values = 5.55e-08
+INFO:FixedPoint:CTM iter 209 |delta_C| 5.551467414804747e-08 t 6.751518289966043 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 210; max_diff_corner_singular_values = 5.33e-08
+INFO:FixedPoint:CTM iter 210 |delta_C| 5.330247398680817e-08 t 6.887656839971896 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 211; max_diff_corner_singular_values = 5.12e-08
+INFO:FixedPoint:CTM iter 211 |delta_C| 5.118197356056953e-08 t 6.776095523033291 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 212; max_diff_corner_singular_values = 4.91e-08
+INFO:FixedPoint:CTM iter 212 |delta_C| 4.9145483884786e-08 t 6.788621271029115 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 213; max_diff_corner_singular_values = 4.72e-08
+INFO:FixedPoint:CTM iter 213 |delta_C| 4.719221772582348e-08 t 6.772345051984303 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 214; max_diff_corner_singular_values = 4.53e-08
+INFO:FixedPoint:CTM iter 214 |delta_C| 4.531569987719797e-08 t 6.861892315966543 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 215; max_diff_corner_singular_values = 4.35e-08
+INFO:FixedPoint:CTM iter 215 |delta_C| 4.3516080348291375e-08 t 6.779641236003954 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 216; max_diff_corner_singular_values = 4.18e-08
+INFO:FixedPoint:CTM iter 216 |delta_C| 4.178434420041329e-08 t 6.869993755011819 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 217; max_diff_corner_singular_values = 4.01e-08
+INFO:FixedPoint:CTM iter 217 |delta_C| 4.013080986167828e-08 t 6.77399511198746 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 218; max_diff_corner_singular_values = 3.85e-08
+INFO:FixedPoint:CTM iter 218 |delta_C| 3.853905206748972e-08 t 6.779444537998643 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 219; max_diff_corner_singular_values = 3.70e-08
+INFO:FixedPoint:CTM iter 219 |delta_C| 3.700719129334654e-08 t 7.014907212986145 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 220; max_diff_corner_singular_values = 3.55e-08
+INFO:FixedPoint:CTM iter 220 |delta_C| 3.5538255631071854e-08 t 6.98019385500811 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 221; max_diff_corner_singular_values = 3.41e-08
+INFO:FixedPoint:CTM iter 221 |delta_C| 3.413375009727126e-08 t 6.84261598897865 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 222; max_diff_corner_singular_values = 3.28e-08
+INFO:FixedPoint:CTM iter 222 |delta_C| 3.2781807365097025e-08 t 6.8682088070199825 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 223; max_diff_corner_singular_values = 3.15e-08
+INFO:FixedPoint:CTM iter 223 |delta_C| 3.1480229772947195e-08 t 6.7953734589973465 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 224; max_diff_corner_singular_values = 3.02e-08
+INFO:FixedPoint:CTM iter 224 |delta_C| 3.023190110298178e-08 t 6.79852024000138 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 225; max_diff_corner_singular_values = 2.90e-08
+INFO:FixedPoint:CTM iter 225 |delta_C| 2.903797267908143e-08 t 6.801171995000914 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 226; max_diff_corner_singular_values = 2.79e-08
+INFO:FixedPoint:CTM iter 226 |delta_C| 2.788638101463411e-08 t 6.794274807034526 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 227; max_diff_corner_singular_values = 2.68e-08
+INFO:FixedPoint:CTM iter 227 |delta_C| 2.6788525845686324e-08 t 6.864788691978902 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 228; max_diff_corner_singular_values = 2.57e-08
+INFO:FixedPoint:CTM iter 228 |delta_C| 2.572353946269671e-08 t 6.877426408987958 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 229; max_diff_corner_singular_values = 2.47e-08
+INFO:FixedPoint:CTM iter 229 |delta_C| 2.470913196575319e-08 t 6.772651588020381 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 230; max_diff_corner_singular_values = 2.37e-08
+INFO:FixedPoint:CTM iter 230 |delta_C| 2.3733321077421046e-08 t 6.796413649048191 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 231; max_diff_corner_singular_values = 2.28e-08
+INFO:FixedPoint:CTM iter 231 |delta_C| 2.2794982598960053e-08 t 6.873524125025142 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 232; max_diff_corner_singular_values = 2.19e-08
+INFO:FixedPoint:CTM iter 232 |delta_C| 2.188995633908481e-08 t 6.780559784034267 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 233; max_diff_corner_singular_values = 2.10e-08
+INFO:FixedPoint:CTM iter 233 |delta_C| 2.1031824959689255e-08 t 6.808458864979912 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 234; max_diff_corner_singular_values = 2.02e-08
+INFO:FixedPoint:CTM iter 234 |delta_C| 2.019774472550922e-08 t 6.804503792023752 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 235; max_diff_corner_singular_values = 1.94e-08
+INFO:FixedPoint:CTM iter 235 |delta_C| 1.940084410837882e-08 t 6.808899811003357 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 236; max_diff_corner_singular_values = 1.86e-08
+INFO:FixedPoint:CTM iter 236 |delta_C| 1.8634469918301248e-08 t 6.819549903972074 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 237; max_diff_corner_singular_values = 1.79e-08
+INFO:FixedPoint:CTM iter 237 |delta_C| 1.7900684529965094e-08 t 6.849391565017868 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 238; max_diff_corner_singular_values = 1.72e-08
+INFO:FixedPoint:CTM iter 238 |delta_C| 1.7192411493677574e-08 t 6.866330421005841 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 239; max_diff_corner_singular_values = 1.65e-08
+INFO:FixedPoint:CTM iter 239 |delta_C| 1.6515267640622243e-08 t 6.818631311994977 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 240; max_diff_corner_singular_values = 1.59e-08
+INFO:FixedPoint:CTM iter 240 |delta_C| 1.5864611364917634e-08 t 6.810825064021628 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 241; max_diff_corner_singular_values = 1.52e-08
+INFO:FixedPoint:CTM iter 241 |delta_C| 1.523886347201524e-08 t 6.780828609014861 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 242; max_diff_corner_singular_values = 1.46e-08
+INFO:FixedPoint:CTM iter 242 |delta_C| 1.4637468291883091e-08 t 6.8191212809761055 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 243; max_diff_corner_singular_values = 1.41e-08
+INFO:FixedPoint:CTM iter 243 |delta_C| 1.4062015296982348e-08 t 6.79687299602665 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 244; max_diff_corner_singular_values = 1.35e-08
+INFO:FixedPoint:CTM iter 244 |delta_C| 1.3506461756137005e-08 t 6.847804304969031 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 245; max_diff_corner_singular_values = 1.30e-08
+INFO:FixedPoint:CTM iter 245 |delta_C| 1.297454747445031e-08 t 6.888797881954815 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 246; max_diff_corner_singular_values = 1.25e-08
+INFO:FixedPoint:CTM iter 246 |delta_C| 1.246311677027873e-08 t 6.893954453989863 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 247; max_diff_corner_singular_values = 1.20e-08
+INFO:FixedPoint:CTM iter 247 |delta_C| 1.197323591639985e-08 t 6.916896056965925 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 248; max_diff_corner_singular_values = 1.15e-08
+INFO:FixedPoint:CTM iter 248 |delta_C| 1.1500525607234958e-08 t 6.845049461990129 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 249; max_diff_corner_singular_values = 1.10e-08
+INFO:FixedPoint:CTM iter 249 |delta_C| 1.104952303018922e-08 t 6.770775024953764 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 250; max_diff_corner_singular_values = 1.06e-08
+INFO:FixedPoint:CTM iter 250 |delta_C| 1.0612407906458251e-08 t 6.787827825988643 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 251; max_diff_corner_singular_values = 1.02e-08
+INFO:FixedPoint:CTM iter 251 |delta_C| 1.0195426963176942e-08 t 6.857000985997729 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 252; max_diff_corner_singular_values = 9.80e-09
+INFO:FixedPoint:CTM iter 252 |delta_C| 9.797007738970842e-09 t 6.804271559987683 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 253; max_diff_corner_singular_values = 9.41e-09
+INFO:FixedPoint:CTM iter 253 |delta_C| 9.409498965079054e-09 t 6.769869902054779 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 254; max_diff_corner_singular_values = 9.04e-09
+INFO:FixedPoint:CTM iter 254 |delta_C| 9.038558222651754e-09 t 6.840518023003824 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 255; max_diff_corner_singular_values = 8.68e-09
+INFO:FixedPoint:CTM iter 255 |delta_C| 8.682880240074205e-09 t 6.938572056009434 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 256; max_diff_corner_singular_values = 8.34e-09
+INFO:FixedPoint:CTM iter 256 |delta_C| 8.344071317596945e-09 t 6.892729518993292 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 257; max_diff_corner_singular_values = 8.01e-09
+INFO:FixedPoint:CTM iter 257 |delta_C| 8.01319918142512e-09 t 6.789376128988806 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 258; max_diff_corner_singular_values = 7.70e-09
+INFO:FixedPoint:CTM iter 258 |delta_C| 7.699131193950774e-09 t 6.815555457025766 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 259; max_diff_corner_singular_values = 7.40e-09
+INFO:FixedPoint:CTM iter 259 |delta_C| 7.396805026695949e-09 t 6.800308677949943 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 260; max_diff_corner_singular_values = 7.10e-09
+INFO:FixedPoint:CTM iter 260 |delta_C| 7.103676387778572e-09 t 6.875944865052588 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 261; max_diff_corner_singular_values = 6.83e-09
+INFO:FixedPoint:CTM iter 261 |delta_C| 6.8272729621683734e-09 t 6.843819965957664 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 262; max_diff_corner_singular_values = 6.56e-09
+INFO:FixedPoint:CTM iter 262 |delta_C| 6.559028015694152e-09 t 6.886522736982442 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 263; max_diff_corner_singular_values = 6.30e-09
+INFO:FixedPoint:CTM iter 263 |delta_C| 6.300534508275322e-09 t 6.7560103759751655 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 264; max_diff_corner_singular_values = 6.05e-09
+INFO:FixedPoint:CTM iter 264 |delta_C| 6.051789051005898e-09 t 6.845648420974612 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 265; max_diff_corner_singular_values = 5.82e-09
+INFO:FixedPoint:CTM iter 265 |delta_C| 5.8156074432547255e-09 t 6.90725538902916 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 266; max_diff_corner_singular_values = 5.59e-09
+INFO:FixedPoint:CTM iter 266 |delta_C| 5.587676654986968e-09 t 6.801593286974821 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 267; max_diff_corner_singular_values = 5.36e-09
+INFO:FixedPoint:CTM iter 267 |delta_C| 5.364734840118379e-09 t 6.84360529796686 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 268; max_diff_corner_singular_values = 5.16e-09
+INFO:FixedPoint:CTM iter 268 |delta_C| 5.157367431339627e-09 t 6.791338446957525 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 269; max_diff_corner_singular_values = 4.95e-09
+INFO:FixedPoint:CTM iter 269 |delta_C| 4.953542660535862e-09 t 6.785355182015337 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 270; max_diff_corner_singular_values = 4.76e-09
+INFO:FixedPoint:CTM iter 270 |delta_C| 4.759650747917791e-09 t 6.8311558369896375 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 271; max_diff_corner_singular_values = 4.57e-09
+INFO:FixedPoint:CTM iter 271 |delta_C| 4.572576932611647e-09 t 6.816188697004691 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 272; max_diff_corner_singular_values = 4.40e-09
+INFO:FixedPoint:CTM iter 272 |delta_C| 4.3969278412023905e-09 t 6.806809507019352 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 273; max_diff_corner_singular_values = 4.22e-09
+INFO:FixedPoint:CTM iter 273 |delta_C| 4.216399696897151e-09 t 6.783610084967222 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 274; max_diff_corner_singular_values = 4.05e-09
+INFO:FixedPoint:CTM iter 274 |delta_C| 4.054617107259946e-09 t 6.796212020970415 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 275; max_diff_corner_singular_values = 3.90e-09
+INFO:FixedPoint:CTM iter 275 |delta_C| 3.895189395679272e-09 t 6.796301238005981 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 276; max_diff_corner_singular_values = 3.74e-09
+INFO:FixedPoint:CTM iter 276 |delta_C| 3.740355793963844e-09 t 6.77969460899476 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 277; max_diff_corner_singular_values = 3.60e-09
+INFO:FixedPoint:CTM iter 277 |delta_C| 3.5998140914528224e-09 t 6.779910505982116 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 278; max_diff_corner_singular_values = 3.45e-09
+INFO:FixedPoint:CTM iter 278 |delta_C| 3.454462256992313e-09 t 6.853811228997074 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 279; max_diff_corner_singular_values = 3.32e-09
+INFO:FixedPoint:CTM iter 279 |delta_C| 3.3189779525160103e-09 t 6.892058558994904 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 280; max_diff_corner_singular_values = 3.19e-09
+INFO:FixedPoint:CTM iter 280 |delta_C| 3.1910494667706604e-09 t 6.7996549980016425 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 281; max_diff_corner_singular_values = 3.07e-09
+INFO:FixedPoint:CTM iter 281 |delta_C| 3.0652334209915858e-09 t 6.774780332983937 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 282; max_diff_corner_singular_values = 2.94e-09
+INFO:FixedPoint:CTM iter 282 |delta_C| 2.943013655195864e-09 t 6.800548889965285 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 283; max_diff_corner_singular_values = 2.83e-09
+INFO:FixedPoint:CTM iter 283 |delta_C| 2.832205320660597e-09 t 6.798434526019264 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 284; max_diff_corner_singular_values = 2.71e-09
+INFO:FixedPoint:CTM iter 284 |delta_C| 2.7138981594446954e-09 t 6.788759026967455 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 285; max_diff_corner_singular_values = 2.61e-09
+INFO:FixedPoint:CTM iter 285 |delta_C| 2.613904622370918e-09 t 6.891403799003456 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 286; max_diff_corner_singular_values = 2.51e-09
+INFO:FixedPoint:CTM iter 286 |delta_C| 2.5100729634974207e-09 t 6.811760312994011 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 287; max_diff_corner_singular_values = 2.41e-09
+INFO:FixedPoint:CTM iter 287 |delta_C| 2.4077824970034155e-09 t 6.851461899990682 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 288; max_diff_corner_singular_values = 2.32e-09
+INFO:FixedPoint:CTM iter 288 |delta_C| 2.3152948431050638e-09 t 6.814554976008367 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 289; max_diff_corner_singular_values = 2.23e-09
+INFO:FixedPoint:CTM iter 289 |delta_C| 2.2271672476170625e-09 t 6.893240604025777 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 290; max_diff_corner_singular_values = 2.14e-09
+INFO:FixedPoint:CTM iter 290 |delta_C| 2.1409524706526813e-09 t 6.805313670018222 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 291; max_diff_corner_singular_values = 2.05e-09
+INFO:FixedPoint:CTM iter 291 |delta_C| 2.051774369046122e-09 t 6.816483778995462 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 292; max_diff_corner_singular_values = 1.97e-09
+INFO:FixedPoint:CTM iter 292 |delta_C| 1.9740721112952677e-09 t 6.745750730973668 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 293; max_diff_corner_singular_values = 1.90e-09
+INFO:FixedPoint:CTM iter 293 |delta_C| 1.8970313872498526e-09 t 6.760342642024625 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 294; max_diff_corner_singular_values = 1.82e-09
+INFO:FixedPoint:CTM iter 294 |delta_C| 1.8207386441869364e-09 t 6.823152669996489 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 295; max_diff_corner_singular_values = 1.76e-09
+INFO:FixedPoint:CTM iter 295 |delta_C| 1.755533433973246e-09 t 6.905009307025466 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 296; max_diff_corner_singular_values = 1.68e-09
+INFO:FixedPoint:CTM iter 296 |delta_C| 1.6823519392439137e-09 t 6.8132333679823205 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 297; max_diff_corner_singular_values = 1.62e-09
+INFO:FixedPoint:CTM iter 297 |delta_C| 1.6156187002429438e-09 t 6.797137302055489 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 298; max_diff_corner_singular_values = 1.55e-09
+INFO:FixedPoint:CTM iter 298 |delta_C| 1.5503816143906306e-09 t 6.916695273015648 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 299; max_diff_corner_singular_values = 1.49e-09
+INFO:FixedPoint:CTM iter 299 |delta_C| 1.4933956261108883e-09 t 6.924748905003071 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 300; max_diff_corner_singular_values = 1.43e-09
+INFO:FixedPoint:CTM iter 300 |delta_C| 1.4327957389753702e-09 t 6.867411458981223 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 301; max_diff_corner_singular_values = 1.38e-09
+INFO:FixedPoint:CTM iter 301 |delta_C| 1.3802279285498076e-09 t 6.825716139981523 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 302; max_diff_corner_singular_values = 1.32e-09
+INFO:FixedPoint:CTM iter 302 |delta_C| 1.323606805328576e-09 t 6.91563537804177 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 303; max_diff_corner_singular_values = 1.27e-09
+INFO:FixedPoint:CTM iter 303 |delta_C| 1.2713247995674635e-09 t 6.8227889749687165 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 304; max_diff_corner_singular_values = 1.22e-09
+INFO:FixedPoint:CTM iter 304 |delta_C| 1.2218143371723644e-09 t 6.8673683640081435 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 305; max_diff_corner_singular_values = 1.17e-09
+INFO:FixedPoint:CTM iter 305 |delta_C| 1.1716135907020792e-09 t 6.896825737028848 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 306; max_diff_corner_singular_values = 1.14e-09
+INFO:FixedPoint:CTM iter 306 |delta_C| 1.1357766625516e-09 t 6.830187396961264 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 307; max_diff_corner_singular_values = 1.08e-09
+INFO:FixedPoint:CTM iter 307 |delta_C| 1.0815109475656627e-09 t 6.835072009998839 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 308; max_diff_corner_singular_values = 1.04e-09
+INFO:FixedPoint:CTM iter 308 |delta_C| 1.041562856127753e-09 t 6.817195744020864 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 309; max_diff_corner_singular_values = 1.00e-09
+INFO:FixedPoint:CTM iter 309 |delta_C| 1.0020750852893271e-09 t 6.820764429983683 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 310; max_diff_corner_singular_values = 9.64e-10
+INFO:FixedPoint:CTM iter 310 |delta_C| 9.639423324727277e-10 t 6.8762732350151055 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 311; max_diff_corner_singular_values = 9.20e-10
+INFO:FixedPoint:CTM iter 311 |delta_C| 9.198622671486567e-10 t 6.806052863015793 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 312; max_diff_corner_singular_values = 8.90e-10
+INFO:FixedPoint:CTM iter 312 |delta_C| 8.902523609660828e-10 t 6.873748306999914 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 313; max_diff_corner_singular_values = 8.54e-10
+INFO:FixedPoint:CTM iter 313 |delta_C| 8.538761024667603e-10 t 6.777139557991177 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 314; max_diff_corner_singular_values = 8.25e-10
+INFO:FixedPoint:CTM iter 314 |delta_C| 8.251222449399288e-10 t 6.917234707041644 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 315; max_diff_corner_singular_values = 7.87e-10
+INFO:FixedPoint:CTM iter 315 |delta_C| 7.868831000888468e-10 t 6.90482245903695 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 316; max_diff_corner_singular_values = 7.58e-10
+INFO:FixedPoint:CTM iter 316 |delta_C| 7.583716405282119e-10 t 6.762275835033506 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 317; max_diff_corner_singular_values = 7.31e-10
+INFO:FixedPoint:CTM iter 317 |delta_C| 7.305018976570139e-10 t 6.764194079034496 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 318; max_diff_corner_singular_values = 6.97e-10
+INFO:FixedPoint:CTM iter 318 |delta_C| 6.968953457318913e-10 t 6.823256209027022 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 319; max_diff_corner_singular_values = 6.73e-10
+INFO:FixedPoint:CTM iter 319 |delta_C| 6.725438931653445e-10 t 6.906116370984819 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 320; max_diff_corner_singular_values = 6.46e-10
+INFO:FixedPoint:CTM iter 320 |delta_C| 6.457520640086577e-10 t 6.8746598300058395 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 321; max_diff_corner_singular_values = 6.20e-10
+INFO:FixedPoint:CTM iter 321 |delta_C| 6.198044878380323e-10 t 6.768488952016924 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 322; max_diff_corner_singular_values = 6.00e-10
+INFO:FixedPoint:CTM iter 322 |delta_C| 5.995613965824424e-10 t 6.738119282992557 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 323; max_diff_corner_singular_values = 5.74e-10
+INFO:FixedPoint:CTM iter 323 |delta_C| 5.735910694879924e-10 t 6.75084707204951 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 324; max_diff_corner_singular_values = 5.51e-10
+INFO:FixedPoint:CTM iter 324 |delta_C| 5.505346563140562e-10 t 6.764795430004597 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 325; max_diff_corner_singular_values = 5.29e-10
+INFO:FixedPoint:CTM iter 325 |delta_C| 5.289953082273277e-10 t 6.739989848982077 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 326; max_diff_corner_singular_values = 5.09e-10
+INFO:FixedPoint:CTM iter 326 |delta_C| 5.093202758658021e-10 t 6.780612402013503 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 327; max_diff_corner_singular_values = 4.90e-10
+INFO:FixedPoint:CTM iter 327 |delta_C| 4.896206226616874e-10 t 6.872177405981347 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 328; max_diff_corner_singular_values = 4.69e-10
+INFO:FixedPoint:CTM iter 328 |delta_C| 4.688942058732615e-10 t 6.772700333036482 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 329; max_diff_corner_singular_values = 4.53e-10
+INFO:FixedPoint:CTM iter 329 |delta_C| 4.530347925568443e-10 t 6.8056031629676 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 330; max_diff_corner_singular_values = 4.34e-10
+INFO:FixedPoint:CTM iter 330 |delta_C| 4.3387795115222395e-10 t 6.758329088042956 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 331; max_diff_corner_singular_values = 4.22e-10
+INFO:FixedPoint:CTM iter 331 |delta_C| 4.216067157848849e-10 t 6.815544716024306 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 332; max_diff_corner_singular_values = 3.99e-10
+INFO:FixedPoint:CTM iter 332 |delta_C| 3.98544831444601e-10 t 6.8283811080036685 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 333; max_diff_corner_singular_values = 3.89e-10
+INFO:FixedPoint:CTM iter 333 |delta_C| 3.886581687551534e-10 t 6.767407645995263 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 334; max_diff_corner_singular_values = 3.71e-10
+INFO:FixedPoint:CTM iter 334 |delta_C| 3.711659998039182e-10 t 6.765426462050527 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 335; max_diff_corner_singular_values = 3.56e-10
+INFO:FixedPoint:CTM iter 335 |delta_C| 3.556638054675919e-10 t 6.8456991509883665 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 336; max_diff_corner_singular_values = 3.43e-10
+INFO:FixedPoint:CTM iter 336 |delta_C| 3.426105840906184e-10 t 6.847057509003207 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 337; max_diff_corner_singular_values = 3.31e-10
+INFO:FixedPoint:CTM iter 337 |delta_C| 3.310036058026793e-10 t 6.8334405639907345 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 338; max_diff_corner_singular_values = 3.18e-10
+INFO:FixedPoint:CTM iter 338 |delta_C| 3.184811755545961e-10 t 6.773931473027915 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 339; max_diff_corner_singular_values = 3.01e-10
+INFO:FixedPoint:CTM iter 339 |delta_C| 3.0072382490215415e-10 t 6.759869778994471 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 340; max_diff_corner_singular_values = 2.93e-10
+INFO:FixedPoint:CTM iter 340 |delta_C| 2.931115997892659e-10 t 6.753386494005099 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 341; max_diff_corner_singular_values = 2.82e-10
+INFO:FixedPoint:CTM iter 341 |delta_C| 2.824016308121766e-10 t 6.793432714010123 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 342; max_diff_corner_singular_values = 2.71e-10
+INFO:FixedPoint:CTM iter 342 |delta_C| 2.7056016302870086e-10 t 6.804317999980412 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 343; max_diff_corner_singular_values = 2.64e-10
+INFO:FixedPoint:CTM iter 343 |delta_C| 2.640884700989608e-10 t 6.902914397011045 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 344; max_diff_corner_singular_values = 2.50e-10
+INFO:FixedPoint:CTM iter 344 |delta_C| 2.49737190796897e-10 t 6.824633293028455 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 345; max_diff_corner_singular_values = 2.43e-10
+INFO:FixedPoint:CTM iter 345 |delta_C| 2.426926262344012e-10 t 6.82590729999356 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 346; max_diff_corner_singular_values = 2.32e-10
+INFO:FixedPoint:CTM iter 346 |delta_C| 2.318138374565386e-10 t 6.85503693803912 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 347; max_diff_corner_singular_values = 2.23e-10
+INFO:FixedPoint:CTM iter 347 |delta_C| 2.2339532456937092e-10 t 6.80798841296928 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 348; max_diff_corner_singular_values = 2.18e-10
+INFO:FixedPoint:CTM iter 348 |delta_C| 2.1759638183729277e-10 t 6.8588454079581425 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 349; max_diff_corner_singular_values = 2.05e-10
+INFO:FixedPoint:CTM iter 349 |delta_C| 2.0541162644201524e-10 t 6.799781174981035 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 350; max_diff_corner_singular_values = 2.00e-10
+INFO:FixedPoint:CTM iter 350 |delta_C| 1.9992954159386084e-10 t 6.827240687969606 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 351; max_diff_corner_singular_values = 1.96e-10
+INFO:FixedPoint:CTM iter 351 |delta_C| 1.9637286705233737e-10 t 6.807103183004074 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 352; max_diff_corner_singular_values = 1.85e-10
+INFO:FixedPoint:CTM iter 352 |delta_C| 1.8546257274377223e-10 t 6.760323577967938 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 353; max_diff_corner_singular_values = 1.77e-10
+INFO:FixedPoint:CTM iter 353 |delta_C| 1.7679182448766892e-10 t 6.843397265009116 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 354; max_diff_corner_singular_values = 1.71e-10
+INFO:FixedPoint:CTM iter 354 |delta_C| 1.7116568529294875e-10 t 6.757316025032196 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 355; max_diff_corner_singular_values = 1.66e-10
+INFO:FixedPoint:CTM iter 355 |delta_C| 1.6584479618114022e-10 t 6.838550315005705 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 356; max_diff_corner_singular_values = 1.65e-10
+INFO:FixedPoint:CTM iter 356 |delta_C| 1.6456025217542483e-10 t 6.770401849993505 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 357; max_diff_corner_singular_values = 1.52e-10
+INFO:FixedPoint:CTM iter 357 |delta_C| 1.5160734200344007e-10 t 6.884033768030349 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 358; max_diff_corner_singular_values = 1.49e-10
+INFO:FixedPoint:CTM iter 358 |delta_C| 1.4867005821704675e-10 t 6.870292752981186 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 359; max_diff_corner_singular_values = 1.50e-10
+INFO:FixedPoint:CTM iter 359 |delta_C| 1.5030777385185533e-10 t 6.8659811450052075 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 360; max_diff_corner_singular_values = 1.43e-10
+INFO:FixedPoint:CTM iter 360 |delta_C| 1.4337112623529195e-10 t 6.8522175179678015 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 361; max_diff_corner_singular_values = 1.35e-10
+INFO:FixedPoint:CTM iter 361 |delta_C| 1.3502623035141347e-10 t 6.924763088987675 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 362; max_diff_corner_singular_values = 1.25e-10
+INFO:FixedPoint:CTM iter 362 |delta_C| 1.2490955128413526e-10 t 6.7852906479965895 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 363; max_diff_corner_singular_values = 1.20e-10
+INFO:FixedPoint:CTM iter 363 |delta_C| 1.201135175647346e-10 t 6.796267387981061 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 364; max_diff_corner_singular_values = 1.19e-10
+INFO:FixedPoint:CTM iter 364 |delta_C| 1.1926363137802906e-10 t 6.852361640019808 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 365; max_diff_corner_singular_values = 1.16e-10
+INFO:FixedPoint:CTM iter 365 |delta_C| 1.1626233622254745e-10 t 6.78987901401706 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 366; max_diff_corner_singular_values = 1.17e-10
+INFO:FixedPoint:CTM iter 366 |delta_C| 1.1693243652961212e-10 t 6.758547720033675 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 367; max_diff_corner_singular_values = 1.08e-10
+INFO:FixedPoint:CTM iter 367 |delta_C| 1.0837081660712492e-10 t 6.838886270998046 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 368; max_diff_corner_singular_values = 1.14e-10
+INFO:FixedPoint:CTM iter 368 |delta_C| 1.135896234704971e-10 t 6.785872524022125 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 369; max_diff_corner_singular_values = 1.03e-10
+INFO:FixedPoint:CTM iter 369 |delta_C| 1.0343780495020665e-10 t 6.8810197790153325 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 370; max_diff_corner_singular_values = 1.16e-10
+INFO:FixedPoint:CTM iter 370 |delta_C| 1.1578773330087475e-10 t 6.883702252001967 [s]
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ h [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:yastn.yastn.tn.fpeps.envs._env_ctm_dist_mp:_update_core_T_ v [['cuda:0', 'cuda:3'], ['cuda:1'], ['cuda:2']] 
+INFO:root:Sweep = 371; max_diff_corner_singular_values = 9.59e-11
+INFO:FixedPoint:CTM iter 371 |delta_C| 9.587343739822169e-11 t 9.04170455102576 [s]
+INFO:FixedPoint:CTM: convergence: True, sweeps 371, t_ctm 2561.618107346876 [s], t_check 79.09869621321559 [s]
+history [nan, 0.026832866857632694, 0.02634134276733025, 0.02679405992475445, 0.022347971278723105, 0.020123927420147344, 0.014867678222055558, 0.007613442483979608, 0.01564407742717235, 0.01722397972503369, 0.009674268995118824, 0.019822938501922713, 0.012427408559541614, 0.0058762756680554576, 0.019337631284529734, 0.016640023746090353, 0.010560219076919222, 0.013454385870139356, 0.0076426658709717364, 0.00853775863893149, 0.00521220147300387, 0.011690929348383587, 0.013824446910652533, 0.011866136321476947, 0.026123247374325323, 0.014817573693262753, 0.015054465756100375, 0.011490880803897497, 0.007290118513862137, 0.032533426008178726, 0.0006176531061615516, 0.0005806746720169784, 0.0005436084235800396, 0.007543952429569524, 0.00047345795287355094, 0.0004392883823125584, 0.01259251475309486, 0.015173879629740579, 0.0003771590090162768, 0.015170916278741611, 0.00031238202629481056, 0.00028258028549563976, 0.016077156288667096, 0.015422449274144018, 0.00024099478918549646, 0.0002217142370574212, 0.00020444422274466532, 0.0001932866852769587, 0.00018051290168251744, 0.0001689691241190588, 0.00015838243212644041, 0.00014817185462264544, 0.028660606284593815, 0.00015240310412047817, 0.0001312593861631291, 0.00012211288857406186, 0.00011280321831755712, 0.01241411172016446, 0.00010660182403480706, 9.232769273040286e-05, 8.664287979779832e-05, 8.045957813326566e-05, 0.012419593916800836, 7.431250882586719e-05, 6.468147071405705e-05, 5.999504186971632e-05, 5.668002269503818e-05, 5.3045490093311086e-05, 4.9816076924458637e-05, 4.676644230358426e-05, 0.022926592173327435, 0.022931182480332806, 0.02293313621738008, 0.012424911899121283, 4.857302117182814e-05, 2.6486256558969656e-05, 2.7295832017612158e-05, 2.487000184021341e-05, 2.3194765704795866e-05, 2.233923492512735e-05, 2.0964795470615875e-05, 1.969454524432004e-05, 1.8788196333292587e-05, 1.770144471106591e-05, 1.6681220080040107e-05, 1.5848773454661563e-05, 1.4953293558496324e-05, 1.4112964215177174e-05, 1.3384893010171446e-05, 1.2640823021321304e-05, 1.194235611429575e-05, 1.1319134290773562e-05, 1.0698553616763943e-05, 1.0116321164643426e-05, 9.587601647283116e-06, 9.069179229304997e-06, 8.582786208538013e-06, 8.136098332095438e-06, 7.702324682036384e-06, 7.295252798578824e-06, 6.9184473050084175e-06, 6.554893999368918e-06, 6.2135584211538355e-06, 5.895750796902346e-06, 5.590469480126648e-06, 5.303673056707495e-06, 5.035426571017561e-06, 4.77855168653719e-06, 4.5370667602456834e-06, 4.310355216867299e-06, 4.093730182526375e-06, 3.889922864474667e-06, 3.6980015074056835e-06, 3.5148994346090797e-06, 3.342471654466102e-06, 3.1796850564493665e-06, 3.0245402897627675e-06, 2.8783055762302332e-06, 2.7399491818425257e-06, 2.6081523357213712e-06, 2.4838242392119422e-06, 2.3659658760730208e-06, 2.2537360854086384e-06, 2.1477556364220045e-06, 2.0471303039834804e-06, 1.9513186971474085e-06, 1.8607593487144026e-06, 1.7746489469059445e-06, 1.6926481501359476e-06, 1.6150742767846457e-06, 1.5412146169659227e-06, 1.4708689994554944e-06, 1.404252181887485e-06, 1.3407619741108462e-06, 1.2802742645677993e-06, 1.2229311496459795e-06, 1.1682338343160011e-06, 1.1161026079013327e-06, 1.06663773175724e-06, 1.0194169492471154e-06, 9.743884747290724e-07, 9.316268384065299e-07, 8.907731896122414e-07, 8.518087877541311e-07, 8.147650966064479e-07, 7.793586244859625e-07, 7.455642147212469e-07, 7.134201933235188e-07, 6.82673853315431e-07, 6.533177127286565e-07, 6.253741356572509e-07, 5.986286781245118e-07, 5.730814453306139e-07, 5.487470104314189e-07, 5.254495360035659e-07, 5.031862984927277e-07, 4.81958358177309e-07, 4.6163232345508496e-07, 4.4219702715954214e-07, 4.2366297414808853e-07, 4.059017416191011e-07, 3.8891525897384815e-07, 3.727094074825824e-07, 3.5716963447682434e-07, 3.4230406245105585e-07, 3.2811253823694565e-07, 3.1450748597427144e-07, 3.014816824186013e-07, 2.8904539925012756e-07, 2.7711061382030734e-07, 2.656901396956873e-07, 2.547739580934401e-07, 2.443076077543497e-07, 2.3427775283286384e-07, 2.2469403315576616e-07, 2.154969096233335e-07, 2.066850337925337e-07, 1.982612048877686e-07, 1.9016959273058012e-07, 1.8242845578651647e-07, 1.7501358688016352e-07, 1.6790227678281103e-07, 1.61083569877168e-07, 1.5455757020524048e-07, 1.482965419903695e-07, 1.422928880116233e-07, 1.3654092929144875e-07, 1.3103122951830495e-07, 1.257350831231975e-07, 1.2067295848768683e-07, 1.158059147582867e-07, 1.111454002460624e-07, 1.0667513530570484e-07, 1.0239013015160152e-07, 9.82713602158492e-08, 9.433458950899002e-08, 9.054548315244515e-08, 8.691583843550051e-08, 8.343733065435977e-08, 8.00945670855162e-08, 7.689257674548508e-08, 7.381654447894334e-08, 7.086718015286569e-08, 6.803907230515572e-08, 6.532135962658283e-08, 6.27196327262048e-08, 6.021056323002825e-08, 5.7817300815598976e-08, 5.551467414804747e-08, 5.330247398680817e-08, 5.118197356056953e-08, 4.9145483884786e-08, 4.719221772582348e-08, 4.531569987719797e-08, 4.3516080348291375e-08, 4.178434420041329e-08, 4.013080986167828e-08, 3.853905206748972e-08, 3.700719129334654e-08, 3.5538255631071854e-08, 3.413375009727126e-08, 3.2781807365097025e-08, 3.1480229772947195e-08, 3.023190110298178e-08, 2.903797267908143e-08, 2.788638101463411e-08, 2.6788525845686324e-08, 2.572353946269671e-08, 2.470913196575319e-08, 2.3733321077421046e-08, 2.2794982598960053e-08, 2.188995633908481e-08, 2.1031824959689255e-08, 2.019774472550922e-08, 1.940084410837882e-08, 1.8634469918301248e-08, 1.7900684529965094e-08, 1.7192411493677574e-08, 1.6515267640622243e-08, 1.5864611364917634e-08, 1.523886347201524e-08, 1.4637468291883091e-08, 1.4062015296982348e-08, 1.3506461756137005e-08, 1.297454747445031e-08, 1.246311677027873e-08, 1.197323591639985e-08, 1.1500525607234958e-08, 1.104952303018922e-08, 1.0612407906458251e-08, 1.0195426963176942e-08, 9.797007738970842e-09, 9.409498965079054e-09, 9.038558222651754e-09, 8.682880240074205e-09, 8.344071317596945e-09, 8.01319918142512e-09, 7.699131193950774e-09, 7.396805026695949e-09, 7.103676387778572e-09, 6.8272729621683734e-09, 6.559028015694152e-09, 6.300534508275322e-09, 6.051789051005898e-09, 5.8156074432547255e-09, 5.587676654986968e-09, 5.364734840118379e-09, 5.157367431339627e-09, 4.953542660535862e-09, 4.759650747917791e-09, 4.572576932611647e-09, 4.3969278412023905e-09, 4.216399696897151e-09, 4.054617107259946e-09, 3.895189395679272e-09, 3.740355793963844e-09, 3.5998140914528224e-09, 3.454462256992313e-09, 3.3189779525160103e-09, 3.1910494667706604e-09, 3.0652334209915858e-09, 2.943013655195864e-09, 2.832205320660597e-09, 2.7138981594446954e-09, 2.613904622370918e-09, 2.5100729634974207e-09, 2.4077824970034155e-09, 2.3152948431050638e-09, 2.2271672476170625e-09, 2.1409524706526813e-09, 2.051774369046122e-09, 1.9740721112952677e-09, 1.8970313872498526e-09, 1.8207386441869364e-09, 1.755533433973246e-09, 1.6823519392439137e-09, 1.6156187002429438e-09, 1.5503816143906306e-09, 1.4933956261108883e-09, 1.4327957389753702e-09, 1.3802279285498076e-09, 1.323606805328576e-09, 1.2713247995674635e-09, 1.2218143371723644e-09, 1.1716135907020792e-09, 1.1357766625516e-09, 1.0815109475656627e-09, 1.041562856127753e-09, 1.0020750852893271e-09, 9.639423324727277e-10, 9.198622671486567e-10, 8.902523609660828e-10, 8.538761024667603e-10, 8.251222449399288e-10, 7.868831000888468e-10, 7.583716405282119e-10, 7.305018976570139e-10, 6.968953457318913e-10, 6.725438931653445e-10, 6.457520640086577e-10, 6.198044878380323e-10, 5.995613965824424e-10, 5.735910694879924e-10, 5.505346563140562e-10, 5.289953082273277e-10, 5.093202758658021e-10, 4.896206226616874e-10, 4.688942058732615e-10, 4.530347925568443e-10, 4.3387795115222395e-10, 4.216067157848849e-10, 3.98544831444601e-10, 3.886581687551534e-10, 3.711659998039182e-10, 3.556638054675919e-10, 3.426105840906184e-10, 3.310036058026793e-10, 3.184811755545961e-10, 3.0072382490215415e-10, 2.931115997892659e-10, 2.824016308121766e-10, 2.7056016302870086e-10, 2.640884700989608e-10, 2.49737190796897e-10, 2.426926262344012e-10, 2.318138374565386e-10, 2.2339532456937092e-10, 2.1759638183729277e-10, 2.0541162644201524e-10, 1.9992954159386084e-10, 1.9637286705233737e-10, 1.8546257274377223e-10, 1.7679182448766892e-10, 1.7116568529294875e-10, 1.6584479618114022e-10, 1.6456025217542483e-10, 1.5160734200344007e-10, 1.4867005821704675e-10, 1.5030777385185533e-10, 1.4337112623529195e-10, 1.3502623035141347e-10, 1.2490955128413526e-10, 1.201135175647346e-10, 1.1926363137802906e-10, 1.1626233622254745e-10, 1.1693243652961212e-10, 1.0837081660712492e-10, 1.135896234704971e-10, 1.0343780495020665e-10, 1.1578773330087475e-10, 9.587343739822169e-11].
+INFO:FixedPoint:FixedPointBackward.forward FP CTM step t 18.193096280039754 [s]
+INFO:FixedPoint:FixedPointBackward.forward FP gauge-fixing t 51.79891597398091 [s]
+INFO:__main__:loss: -0.0851483599372579
+INFO:__main__:{"nA_Site(0, 0)": 0.16456343052263842, "nB_Site(0, 0)": 0.16484999234340028, "nA_Site(0, 1)": 0.16729003094063274, "nB_Site(0, 1)": 0.16720091135448828, "nA_Site(0, 2)": 0.16754190609610548, "nB_Site(0, 2)": 0.16855372957176143}

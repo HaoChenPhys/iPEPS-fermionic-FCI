@@ -1,0 +1,3 @@
+[submodule "peps_torch"]
+	path = peps_torch
+	url = https://github.com/jurajHasik/peps-torch
