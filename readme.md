@@ -1,5 +1,13 @@
 # iPEPS for Fermionic Fractional Chern Insulators
 
+## Setup
+
+This repository uses **git submodules**. After cloning, initialize and fetch them:
+
+```
+git submodule update --init --recursive
+```
+
 ## Data
 
 This repository hosts the data accompanying the paper: https://arxiv.org/abs/2512.20697
