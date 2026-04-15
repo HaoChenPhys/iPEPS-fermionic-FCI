@@ -134,7 +134,7 @@ chi=98
 #     #  color='#555555'
 
 colors = ['#009E73', '#D55E00']
-for D, opt_chi, chi in [(9, 108, 468)]:
+for D, opt_chi, chi in [(9, 117, 468)]:
     filename = f"./FCI_3x3_N3/D{D}/optchi_{opt_chi}/chi_{chi:d}/cA_cpA_corrf_site_{site:d}_dirn_(1,0).npy"
     with open(filename, "rb") as f:
         dist1 = np.load(f)
